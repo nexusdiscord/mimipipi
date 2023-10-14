@@ -408,6 +408,9 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/axn.m3u8
 EXTINF:-1 tvg-url=""tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e08e2ff4a5f2f8c6b281d41b443aa6e2.jpg" group-title="ENTERTAINMENT",Warner TV
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_warner_small.png" group-title="ENTERTAINMENT",Warner TV (N*)
+https://nonton.site:8443/ekos/7483/1533
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_warner_small.png" group-title="ENTERTAINMENT",Warner TV (*)
 http://208.115.225.174:14132
 
@@ -1132,14 +1135,19 @@ https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.m
 https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd
 
 #EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="MOVIES",HBO
+https://nonton.site:8443/ekos/7483/26595
 http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/197972
 #EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="MOVIES",HBO Hits
+https://nonton.site:8443/ekos/7483/26596
 http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/196480
 #EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="MOVIES",HBO Family
+https://nonton.site:8443/ekos/7483/26598
 http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/197055
 #EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="MOVIES",HBO Signature
+https://nonton.site:8443/ekos/7483/26597
 http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/221948
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="MOVIES",Cinemax
+https://nonton.site:8443/ekos/7483/2156
 http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/197964
 
 =======================================
@@ -1300,6 +1308,9 @@ https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.m
 #EXTINF:-1 group-title="MOVIES" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/653e07e66e2d7efdb7b541e71569b63b.png",Aniplus (*)
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=926202&extension=ts&play_token=crAdYarYaI
 
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/653e07e66e2d7efdb7b541e71569b63b.png",Aniplus (N*)
+https://nonton.site:8443/ekos/7483/2
+
 
 ##############################################################
 
@@ -1398,15 +1409,15 @@ https://d1xhnb4ptk05mw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="XITEROCKON" tvg-name="XITEROCKON " tvg-logo="" group-title="MUSIC",XITE ROCK ON
 https://delrqw6rbggz6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mtvlive_small.png" group-title="MUSIC", MTV
+#EXTINF:-1 tvg-logo="https://www.indihometv.com/images/logo_mtvlive_small.png" group-title="MUSIC", MTV
 http://187.95.95.243/mtv/mono.m3u8 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mtvlive_small.png" group-title="MUSIC", MTV Global SD
 http://195.24.89.82/MTV_SD/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mtvlive_small.png" group-title="MUSIC", MTV 00s SD
+#EXTINF:-1 tvg-logo="www.indihometv.com/pimages/logo_mtvlive_small.png" group-title="MUSIC", MTV 00s SD
 http://195.24.89.82/VH1_SD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mtvlive_small.png" group-title="MUSIC", MTV HD
+#EXTINF:-1 tvg-logo="https://www.indihometv.com/pimages/logo_mtvlive_small.png" group-title="MUSIC", MTV HD
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=887384&extension=ts&play_token=nPfZ3JosuR
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mtvlive_small.png" group-title="MUSIC", MTV U
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=887379&extension=ts&play_token=5ENwuYDd5Z
