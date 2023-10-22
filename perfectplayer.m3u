@@ -519,6 +519,8 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/jtv.m3u8
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV Lokal",MGN
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nexusdiscord/tv-logo/master/padangtv.png" group-title="TV Lokal",Padang TV
+https://pdgtv.webz.repl.co/live.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a67d1e1b4ad2e706d5b9502403fcfd6a.png" group-title="TV Lokal",Tempo TV
 https://github.com/thefirefox12537/streams/raw/master/tempo.m3u8
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/West%20Java%20Network%20SD-FirstMedia-Chl-50.jpg" group-title="TV Lokal",West Java
